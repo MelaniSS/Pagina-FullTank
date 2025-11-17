@@ -7,6 +7,7 @@ h1 {
 
 h3 {
     color: darkmagenta;
+    text-align: center;
 }
 
 summary {
@@ -15,4 +16,23 @@ summary {
 
 li {
     color: darkslateblue;
+    
+}
+
+ul {
+    text-align: center;
+}
+
+.imagenes {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+button {
+    color: blueviolet;
+}
+
+body {
+    background-image: url(./grisfondopaginahtml.jpg);
 }

@@ -5,8 +5,26 @@ h1 {
 
 h3 {
     color: blueviolet;
+    text-align: center;
 }
 
 ul {
     color: darkslateblue;
+    text-align: center;
+    list-style-type: none;
+
+}
+
+.imagenes {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+}
+
+button {
+    color: blueviolet;
+}
+
+body {
+    background-image: url(grisfondopaginahtml.jpg);
 }
